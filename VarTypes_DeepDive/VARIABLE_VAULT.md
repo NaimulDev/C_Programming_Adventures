@@ -1,0 +1,1 @@
+VARIABLE_VAULT.md: Covers type modifiers (short, unsigned), sizeof operator, and format specifiers table.
