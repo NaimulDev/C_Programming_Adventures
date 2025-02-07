@@ -1,0 +1,1 @@
+Explains 2D arrays, array decay to pointers, and string manipulation functions.
